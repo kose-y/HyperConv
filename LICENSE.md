@@ -1,4 +1,5 @@
 Copyright (c) 2008–2013, Theano Development Team All rights reserved.
+
 Copyright (c) 2016, Seyoon Ko.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
